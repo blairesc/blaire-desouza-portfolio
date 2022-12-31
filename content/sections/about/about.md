@@ -1,14 +1,14 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/undraw_proud_coder.png"
+imageAlt: "About Blaire deSouza"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Hello again! I am a front end web developer that graduated from Florida Atlantic University with a Bachelor's of Science in Computer Science with honors. I am currently based in the New York Metropolitan area.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+I love combining my technical knowledge with my keen eye for design and attention to details
+to create beautifully efficient applications. My passion for coding stems the feeling of 
+accomplishment when a bug has been fixed. When I am not in front of a computer screen, I am 
+being active outside.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
-
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+I am excited to contribute my skills to the right company while working along side other 
+amazing programmers and learning so much more. 

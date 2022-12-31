@@ -1,22 +1,21 @@
 {
-  "intro": "Hej",
+  "intro": "Hello! I'm Blaire",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
+    "src": "",
     "alt": "My Photo"
   },
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "I'm a ",
+    "highlight": "Front End Web Developer",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "I'm passionate about creating beautiful and interactive sites while solving problems.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
   }
 }

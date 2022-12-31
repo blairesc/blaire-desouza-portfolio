@@ -1,58 +1,72 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "HTML5",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/html-5.png",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "CSS3",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/css-3.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Tailwind CSS",
+      "image": {
+        "src": "../../images/tailwind.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "JavaScript",
+      "image": {
+        "src": "../../images/javascript.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "React",
+      "image": {
+        "src": "../../images/react.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Restful APIs",
+      "image": {
+        "src": "../../images/api.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Git",
+      "image": {
+        "src": "../../images/git.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "NPM",
+      "image": {
+        "src": "../../images/npm.png",
         "alt": ""
       }
     },
     {
       "label": "Responsive Design",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/responsive.png",
         "alt": ""
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "Adobe Xd",
       "image": {
-        "src": "../../images/medium.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Animations",
-      "image": {
-        "src": "../../images/gem-stone.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "PWA (Offline Support)",
-      "image": {
-        "src": "../../images/mobile-phone.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Modern Tech-Stack",
-      "image": {
-        "src": "../../images/gatsby.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Blazing Fast",
-      "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/xd.png",
         "alt": ""
       }
     }
