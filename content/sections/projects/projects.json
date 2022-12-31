@@ -2,46 +2,69 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "title": "Splash Image Gallery",
+      "description": "A responsive react web application that allows users to search for free stock images and video. There are three pages namely: Home, Videos, and Challenges. The Home and Videos pages search an input and display a grid of images and videos respectively. The contributor's name and user image is also displayed on each card when hovered. The Challenges page displays the current challenge as well as the past challenges that have been closed.",
+      "tags": ["TailwindCSS", "ReactJS", "React Router", "Rest API"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/splash.png",
+        "alt": "Splash Image Gallery Website",
+        "linkTo": ""
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/blairesc/Image-Gallery"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://splash-gallery.netlify.app/"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "title": "Housed Real Estate",
+      "description": "A responsive real estate website that takes the input of a two character state abbreviation. When the state is searched its rental properties listings is then displayed in a new tab. The service section displays the services offered, while the featured section displays three properties with its rent, square footage, bedroom and bathroom information. The contact section lists the contact information with a contact form and a map that shows the location.",
+      "tags": ["HTML5", "CSS", "JS ES6", "Rest API", "AWS Lambda", "Axios"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/housed.png",
+        "alt": "Housed Realty Screenshot",
+        "linkTo": ""
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/blairesc/Housed"
+        },
+        {
+          "type": "external",
+          "url": "https://housed-realty.netlify.app"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "title": "Login and Sign Up Form",
+      "description": "A form that allows users to login and sign up, and its input validated. If a password is forgotten then they are redirected to enter the email used to sign up and a reset link sent. The form can not be submitted unless agreement to Terms of Service and Privacy Policy is clicked.",
+      "tags": ["HTML", "CSS", "JavaScript"],
+      "image": {
+        "src": "../../images/login-signup.png",
+        "alt": "Form Validation Screenshot"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/blairesc/Form-Validation"
+        },
+        {
+          "type": "external",
+          "url": "https://blairesc.github.io/Form-Validation/"
         }
       ]
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "Visit on Github",
     "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
   }
