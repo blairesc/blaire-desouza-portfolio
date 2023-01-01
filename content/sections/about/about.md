@@ -4,7 +4,7 @@ imageAlt: "About Blaire deSouza"
 ---
 
 Hello again! I am a front end web developer with a Bachelor's of Science in Computer Science from
-Florida Atlantic University. I am now based in the New York Metropolitan area.
+Florida Atlantic University. I am now based in the New York City Metropolitan area.
 
 I love combining my technical knowledge with my keen eye for design and attention to details
 to create beautifully efficient applications. My passion for coding stems from the feeling of 
