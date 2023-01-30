@@ -2,6 +2,23 @@
   "projects": [
     {
       "visible": true,
+      "title": "React Dashboard",
+      "description": "A graphical user interface which provides views of key performance indicators.",
+      "tags": ["Coming Soon"],
+      "image": {
+        "src": "../../images/Blur Dashboard.jpg",
+        "alt": "Dashboard Website",
+        "linkTo": ""
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/blairesc/Dashboard"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "title": "Splash Image Gallery",
       "description": "A responsive react web application that allows users to search for free stock images and video. There are three pages namely: Home, Videos, and Challenges. The Home and Videos pages search an input and display a grid of images and videos respectively. The contributor's name and user image is also displayed on each card when hovered. The Challenges page displays the current challenge as well as the past challenges that have been closed.",
       "tags": ["TailwindCSS", "ReactJS", "React Router", "Rest API"],
