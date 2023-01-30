@@ -15,13 +15,6 @@
       }
     },
     {
-      "label": "Tailwind CSS",
-      "image": {
-        "src": "../../images/tailwind.png",
-        "alt": ""
-      }
-    },
-    {
       "label": "JavaScript",
       "image": {
         "src": "../../images/javascript.png",
@@ -36,9 +29,30 @@
       }
     },
     {
+      "label": "SCSS",
+      "image": {
+        "src": "../../images/scss.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Tailwind CSS",
+      "image": {
+        "src": "../../images/tailwind.png",
+        "alt": ""
+      }
+    },
+    {
       "label": "Restful APIs",
       "image": {
         "src": "../../images/api.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Java",
+      "image": {
+        "src": "../../images/Java.jpg",
         "alt": ""
       }
     },
