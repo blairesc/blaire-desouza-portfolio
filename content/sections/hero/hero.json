@@ -1,5 +1,5 @@
 {
-  "intro": "Hello! I'm Blaire",
+  "intro": "Hello!",
   "heroPhoto": {
     "src": "",
     "alt": "My Photo"
@@ -10,12 +10,12 @@
   },
   "subtitle": {
     "prefix": "I'm a ",
-    "highlight": "Software Engineer",
+    "highlight": "Digital Project Manager",
     "suffix": "."
   },
-  "description": "I'm passionate about creating beautiful and interactive sites while solving problems.",
+  "description": "Elevating Digital Journeys: Merging Creativity with Proven Project Management.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Github", "Mail"],
+    "from": ["Github", "Mail"],
     "showIcons": true
   }
 }

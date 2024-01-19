@@ -3,13 +3,10 @@ imageSrc: "../../images/undraw_proud_coder.png"
 imageAlt: "About Blaire deSouza"
 ---
 
-Hello again! I am a front end web developer with a Bachelor's of Science in Computer Science from
-Florida Atlantic University. I am now based in the New York City Metropolitan area.
+Hi! I’m Blaire deSouza, a digital project manager currently immersed in the tech hub of the New York City Metropolitan area.
+ 
+4 years experience developing digital products, whether that is APIs or creative digital journeys for companies. I believe in building the right teams, and facilitating the success of such teams to successfully delivery various projects. 
 
-I love combining my technical knowledge with my keen eye for design and attention to details
-to create beautifully efficient applications. My passion for coding stems from the feeling of 
-accomplishment when I have fixed a bug. When I am not in front of a computer screen, I am 
-being active outside.
+My unique blend of strategic oversight and development proficiency allows me to effectively communicate with technical and non-technical team members, and ensure every project objectives align. I balance the world of computer screens with the refreshing experiences of nature and travels. 
 
-I am excited to contribute my skills to the right company while working along side other 
-amazing programmers and learning so much more. 
+I am eager to bring my dual expertise in project management and software development to transformative projects. I am actively seeking opportunities to collaborate with dynamic teams!
