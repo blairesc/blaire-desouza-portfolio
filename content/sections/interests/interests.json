@@ -15,6 +15,13 @@
       }
     },
     {
+      "label": "Tailwind CSS",
+      "image": {
+        "src": "../../images/tailwind.png",
+        "alt": ""
+      }
+    },
+    {
       "label": "JavaScript",
       "image": {
         "src": "../../images/javascript.png",
@@ -29,16 +36,9 @@
       }
     },
     {
-      "label": "SCSS",
+      "label": "Elementor",
       "image": {
-        "src": "../../images/scss.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Tailwind CSS",
-      "image": {
-        "src": "../../images/tailwind.png",
+        "src": "../../images/elementor_logo.png",
         "alt": ""
       }
     },
@@ -59,28 +59,14 @@
     {
       "label": "Git",
       "image": {
-        "src": "../../images/git.png",
+        "src": "../../images/git_icon.png",
         "alt": ""
       }
     },
     {
-      "label": "NPM",
+      "label": "Figma",
       "image": {
-        "src": "../../images/npm.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Responsive Design",
-      "image": {
-        "src": "../../images/responsive.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Adobe Xd",
-      "image": {
-        "src": "../../images/xd.png",
+        "src": "../../images/figma_logo.png",
         "alt": ""
       }
     }

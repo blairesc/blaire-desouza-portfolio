@@ -25,11 +25,11 @@
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Resume",
-        "url": "/Blaire deSouza Resume1.pdf"
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/blaire-desouza/"
       },
       "footer": [
-        { "label": "© 2023", "url": "/" }
+        { "label": "© 2024", "url": "/" }
       ]
     },
     "featureToggles": {

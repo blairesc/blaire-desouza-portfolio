@@ -2,9 +2,60 @@
   "projects": [
     {
       "visible": true,
+      "title": "Light for the Next Generation",
+      "description": "As both the project manager and developer, I orchestrated a harmonious symphony of planning and execution. Leading the project from conception to delivery I meticulously coordinated tasks, timelines, and resources to ensure a seamless workflow while maintaining the relationship with the client. My hands-on development expertise complemented the strategic project management.",
+      "tags": ["Elementor", "CSS"],
+      "image": {
+        "src": "../../images/lightfornextgen_website.png",
+        "alt": "Light for the Next Generation Website",
+        "linkTo": ""
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://lightfornextgen.org/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "title": "DiversityZoom",
+      "description": "Transformed creative concepts into a digital reality that is both visually stunning and highly responsive. Created an immersive user experience, ensuring that every detail contributes to the project's overall success.",
+      "tags": ["Elementor", "CSS"],
+      "image": {
+        "src": "../../images/diversityzoom_website.png",
+        "alt": "DiversityZoom Website",
+        "linkTo": ""
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://www.diversityzoom.com/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "title": "WK Social Agency",
+      "description": "Seamlessly bridged the gap between design and functionality. Collaborating closely with the UX/UI designer, to translate creative visions into a dynamic and visually appealing website. Communicated with the client throughout to ensure that their goals were not only met but exceeded, resulting in a successful project.",
+      "tags": ["Elementor", "CSS", "JavaScript"],
+      "image": {
+        "src": "../../images/wksocial_website.png",
+        "alt": "WK Social Agency Website",
+        "linkTo": ""
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://wksocial.com/"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "title": "React Dashboard",
       "description": "A graphical user interface which provides views of key performance indicators.",
-      "tags": ["Coming Soon"],
+      "tags": ["Coming Soon", "ReactJS"],
       "image": {
         "src": "../../images/Blur Dashboard.jpg",
         "alt": "Dashboard Website",
@@ -60,7 +111,7 @@
       ]
     },
     {
-      "visible": true,
+      "visible": false,
       "title": "Login and Sign Up Form",
       "description": "A form that allows users to login and sign up, and its input validated. If a password is forgotten then they are redirected to enter the email used to sign up and a reset link sent. The form can not be submitted unless agreement to Terms of Service and Privacy Policy is clicked.",
       "tags": ["HTML", "CSS", "JavaScript"],
