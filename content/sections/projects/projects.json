@@ -3,7 +3,7 @@
     {
       "visible": true,
       "title": "Light for the Next Generation",
-      "description": "As both the project manager and developer, I orchestrated a harmonious symphony of planning and execution. Leading the project from conception to delivery I meticulously coordinated tasks, timelines, and resources to ensure a seamless workflow while maintaining the relationship with the client. My hands-on development expertise complemented the strategic project management.",
+      "description": "Lead the project from conception to delivery, as well as developed the website. Meticulously coordinated tasks, timelines, and resources to ensure a seamless workflow while maintaining the relationship with the client.",
       "tags": ["Elementor", "CSS"],
       "image": {
         "src": "../../images/lightfornextgen_website.png",
@@ -20,7 +20,7 @@
     {
       "visible": true,
       "title": "DiversityZoom",
-      "description": "Transformed creative concepts into a digital reality that is both visually stunning and highly responsive. Created an immersive user experience, ensuring that every detail contributes to the project's overall success.",
+      "description": "Transformed a creative concepts into a digital reality that was both visually stunning and highly responsive. Created an immersive user experience, ensuring that every detail contributed to the project's overall success.",
       "tags": ["Elementor", "CSS"],
       "image": {
         "src": "../../images/diversityzoom_website.png",
@@ -37,7 +37,7 @@
     {
       "visible": true,
       "title": "WK Social Agency",
-      "description": "Seamlessly bridged the gap between design and functionality. Collaborating closely with the UX/UI designer, to translate creative visions into a dynamic and visually appealing website. Communicated with the client throughout to ensure that their goals were not only met but exceeded, resulting in a successful project.",
+      "description": "Seamlessly bridged the gap between design and functionality. Collaborating closely with the UX/UI designer, to translate creative visions into a dynamic and visually appealing website. Communicated with the client throughout to ensure that their goals were not only met but exceeded.",
       "tags": ["Elementor", "CSS", "JavaScript"],
       "image": {
         "src": "../../images/wksocial_website.png",
@@ -54,7 +54,7 @@
     {
       "visible": true,
       "title": "React Dashboard",
-      "description": "A graphical user interface which provides views of key performance indicators.",
+      "description": "Developing a graphical user interface which provides views of key performance indicators.",
       "tags": ["Coming Soon", "ReactJS"],
       "image": {
         "src": "../../images/Blur Dashboard.jpg",
@@ -71,7 +71,7 @@
     {
       "visible": true,
       "title": "Splash Image Gallery",
-      "description": "A responsive react web application that allows users to search for free stock images and video. There are three pages namely: Home, Videos, and Challenges. The Home and Videos pages search an input and display a grid of images and videos respectively. The contributor's name and user image is also displayed on each card when hovered. The Challenges page displays the current challenge as well as the past challenges that have been closed.",
+      "description": "Developed a responsive react web application that allows users to search for free stock images and video. There are three pages namely: Home, Videos, and Challenges. The Home and Videos pages search an input and display a grid of images and videos respectively. The contributor's name and user image is also displayed on each card when hovered. The Challenges page displays the current challenge as well as the past challenges that have been closed.",
       "tags": ["TailwindCSS", "ReactJS", "React Router", "Rest API"],
       "image": {
         "src": "../../images/splash.png",
@@ -92,7 +92,7 @@
     {
       "visible": true,
       "title": "Housed Real Estate",
-      "description": "A responsive real estate website that takes the input of a two character state abbreviation. When the state is searched its rental properties listings is then displayed in a new tab. The service section displays the services offered, while the featured section displays three properties with its rent, square footage, bedroom and bathroom information. The contact section lists the contact information with a contact form and a map that shows the location.",
+      "description": "Developed a responsive real estate website that takes the input of a two character state abbreviation. When the state is searched its rental properties listings is then displayed in a new tab. The service section displays the services offered, while the featured section displays three properties with its rent, square footage, bedroom and bathroom information. The contact section lists the contact information with a contact form and a map that shows the location.",
       "tags": ["HTML5", "CSS", "JS ES6", "Rest API", "AWS Lambda", "Axios"],
       "image": {
         "src": "../../images/housed.png",
@@ -113,7 +113,7 @@
     {
       "visible": false,
       "title": "Login and Sign Up Form",
-      "description": "A form that allows users to login and sign up, and its input validated. If a password is forgotten then they are redirected to enter the email used to sign up and a reset link sent. The form can not be submitted unless agreement to Terms of Service and Privacy Policy is clicked.",
+      "description": "Developed a form that allows users to login and sign up, and its input validated. If a password is forgotten then they are redirected to enter the email used to sign up and a reset link sent. The form can not be submitted unless agreement to Terms of Service and Privacy Policy is clicked.",
       "tags": ["HTML", "CSS", "JavaScript"],
       "image": {
         "src": "../../images/login-signup.png",
