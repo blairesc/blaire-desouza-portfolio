@@ -1,5 +1,5 @@
 {
-  "intro": "Hello!",
+  "intro": "Hello,",
   "heroPhoto": {
     "src": "",
     "alt": "My Photo"
@@ -9,11 +9,11 @@
     "alt": "Waving Hand Emoji"
   },
   "subtitle": {
-    "prefix": "I ",
-    "highlight": "manage Projects and create Software",
-    "suffix": " ."
+    "prefix": "I am into ",
+    "highlight": "Digital Products",
+    "suffix": " !"
   },
-  "description": "Elevating Digital Journeys: Merging Creativity with Proven Project Management.",
+  "description": "",
   "socialProfiles": {
     "from": ["Github", "Mail"],
     "showIcons": true
